@@ -45,6 +45,7 @@ jspm_packages
 
 *.bak
 *.js.map
+*.js
 
 typings/*
 typings

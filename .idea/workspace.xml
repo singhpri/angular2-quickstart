@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e346c193-0ddb-4ce4-be3d-158786c48c21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.component.ts" afterPath="$PROJECT_DIR$/app/app.component.ts" />
-    </list>
+    <list default="true" id="e346c193-0ddb-4ce4-be3d-158786c48c21" name="Default" comment="" />
     <ignored path="angular2-quickstart.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -304,12 +302,12 @@
       <workItem from="1473544419840" duration="463000" />
       <workItem from="1473547388840" duration="3362000" />
       <workItem from="1473553691401" duration="97000" />
-      <workItem from="1474561899964" duration="996000" />
+      <workItem from="1474561899964" duration="1180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4918000" />
+    <option name="totallyTimeSpent" value="5102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
